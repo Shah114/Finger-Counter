@@ -28,4 +28,8 @@ The Finger Counter uses a Hand Tracking Module based on MediaPipe, which is insp
 **Acknowledgements** <br/>
 This project was inspired by Murtaza’s tutorial on hand tracking, available on his YouTube channel. <br/>
 * https://youtu.be/p5Z_GGRCI5s?si=kY08mdNKthfY8ioE
-* https://youtu.be/NZde8Xt78Iw?si=5hNuebMVbjFL4fHm
+* https://youtu.be/NZde8Xt78Iw?si=5hNuebMVbjFL4fHm <br/>
+<br/>
+
+**Contributing** <br/>
+Contributions are welcome! Please open an issue or submit a pull request.
