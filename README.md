@@ -11,3 +11,9 @@ This project is a Finger Counter built using OpenCV and a Hand Tracking Module i
 * Hand Detection: Utilizes a Hand Tracking Module to efficiently detect hands in the frame.
 * OpenCV Integration: Uses OpenCV for image processing and video capture. <br/>
 <br/>
+
+**Usage** <br/>
+1. Ensure your webcam is connected or use a video file.
+2. Run the finger_counter.py script to start the application.
+3. The program will display the video feed with the finger count overlayed on the screen. <br/>
+<br/>
