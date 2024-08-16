@@ -18,7 +18,7 @@ This project is a Finger Counter built using OpenCV and a Hand Tracking Module i
 3. The program will display the video feed with the finger count overlayed on the screen. <br/>
 <br/>
 
-**How It Works**
+**How It Works** <br/>
 The Finger Counter uses a Hand Tracking Module based on MediaPipe, which is inspired by Murtaza's tutorial. The steps involved include: <br/>
 * Hand Detection: The module detects the hand landmarks in the video frame.
 * Finger Identification: Based on the positions of the detected landmarks, the script identifies which fingers are open.
